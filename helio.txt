@@ -1,0 +1,12 @@
+Desktop SDVU6EH8 Apple gray 21.5 5.60 2019 10999 MacOs-Majove mini false
+Notebook 0974 asus white 13.3 1.2 2018 6000 true
+Smartphone FK041F Samsung Blue 6.4 0.165 2018 2300 GalaxyS10
+Smartphone DL222L Apple White 6.4 0.138 2016 3350 Iphone7
+Desktop 8UH11EA4 Hp white 17.6 6.50 2017 7739 Windows-10 midi true
+notebook 0972 casper gray 15.6 2.0 2014 2000 false
+notebook 0973 dell blue 14 1.8 2017 4500 true
+Desktop ARF7U3NO Casper black 15.5 6.70 2018 8567 Linux midi true
+Smartphone FF125K Samsung Grey 6.4 0.172 2019 7300 GalaxyS10
+Smartphone ASF34L Apple Black 5.9 0.151 2019 7850 Iphone11
+notebook 0971 asus black 15.6 2.2 2016 3800 false
+Desktop YD6O2NUE Dell black 14.5 7.90 2019 8000 Windows-Vista mini false
